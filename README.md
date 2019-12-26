@@ -7,7 +7,7 @@ RCWL-0516 4-28V 3mA Microwave Radar Sensor
 Folgendes in der Konsole von Tasmota eingeben:
 ![Screenshot](3.png)
 <br><br>
-In der Konsole zusätzlich den Switchmode auf 1 ändern
+In der Konsole zusätzlich den Switchmode2 auf 1 ändern
 ![Screenshot](4.png)
 ![Screenshot](5.png)
 ![Screenshot](6.png)
