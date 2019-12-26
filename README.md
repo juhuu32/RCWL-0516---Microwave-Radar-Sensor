@@ -9,8 +9,13 @@ Folgendes in der Konsole von Tasmota eingeben:
 <br><br>
 In der Konsole zusätzlich den Switchmode2 auf 1 ändern
 ![Screenshot](4.png)
+<br>
 ![Screenshot](5.png)
+<br>
 ![Screenshot](6.png)
+<br>
 ![Screenshot](7.png)
+<br>
 ![Screenshot](8.png)
+<br>
 ![Screenshot](9.png)
